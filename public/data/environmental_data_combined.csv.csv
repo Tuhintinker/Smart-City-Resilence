@@ -1,0 +1,721 @@
+Date,City,State,AQI,Temperature (°C),Wind Speed (m/s),Humidity (%)
+2023-01-15,Lucknow,Uttar Pradesh,137,26.7,1.69,27
+2023-01-15,Jodhpur,Rajasthan,183,10.6,0.53,65
+2023-01-15,Amritsar,Punjab,130,32.1,6.28,68
+2023-01-15,Nashik,Maharashtra,87,15.3,2.91,79
+2023-01-15,Jaipur,Rajasthan,106,33.6,3.17,73
+2023-01-15,Agra,Uttar Pradesh,100,17.1,0.95,83
+2023-01-15,Ahmedabad,Gujarat,248,14.6,1.5,83
+2023-01-15,Indore,Madhya Pradesh,156,34.8,3.47,55
+2023-01-15,Rajkot,Gujarat,218,15.4,1.13,70
+2023-01-15,Varanasi,Uttar Pradesh,220,16.9,2.12,35
+2023-01-15,Bhubaneswar,Odisha,235,36.4,4.79,41
+2023-01-15,Srinagar,Jammu and Kashmir,41,35.7,4.24,78
+2023-01-15,Kanpur,Uttar Pradesh,230,17.4,2.24,41
+2023-01-15,Ludhiana,Punjab,128,39.6,6.39,31
+2023-01-15,Nagpur,Maharashtra,128,23.0,3.55,66
+2023-01-15,Ranchi,Jharkhand,122,30.3,5.34,62
+2023-01-15,Pune,Maharashtra,192,34.1,5.55,66
+2023-01-15,Guwahati,Assam,239,21.1,5.35,79
+2023-01-15,Delhi,Delhi,54,41.1,3.33,46
+2023-01-15,Chennai,Tamil Nadu,101,24.2,4.01,84
+2023-02-15,Agra,Uttar Pradesh,98,23.6,3.72,74
+2023-02-15,Jodhpur,Rajasthan,124,27.6,4.6,55
+2023-02-15,Lucknow,Uttar Pradesh,173,13.0,0.59,30
+2023-02-15,Rajkot,Gujarat,140,11.7,4.32,21
+2023-02-15,Dehradun,Uttarakhand,54,25.9,0.7,52
+2023-02-15,Hyderabad,Telangana,174,28.8,4.41,74
+2023-02-15,Amritsar,Punjab,98,31.4,6.1,33
+2023-02-15,Kanpur,Uttar Pradesh,171,40.3,3.59,64
+2023-02-15,Ahmedabad,Gujarat,159,24.7,5.95,27
+2023-02-15,Nagpur,Maharashtra,250,37.5,4.5,52
+2023-02-15,Varanasi,Uttar Pradesh,76,37.1,3.13,49
+2023-02-15,Indore,Madhya Pradesh,214,33.9,6.43,40
+2023-02-15,Guwahati,Assam,128,32.9,1.85,75
+2023-02-15,Chennai,Tamil Nadu,115,40.7,3.99,88
+2023-02-15,Pune,Maharashtra,153,12.8,4.58,32
+2023-02-15,Ludhiana,Punjab,202,35.6,1.46,86
+2023-02-15,Nashik,Maharashtra,177,33.1,2.49,25
+2023-02-15,Kolkata,West Bengal,237,13.9,2.91,26
+2023-02-15,Gwalior,Madhya Pradesh,209,34.2,5.59,80
+2023-02-15,Delhi,Delhi,197,13.7,6.07,84
+2023-03-15,Vadodara,Gujarat,93,40.0,3.9,29
+2023-03-15,Nashik,Maharashtra,195,15.6,2.63,51
+2023-03-15,Delhi,Delhi,92,26.7,1.61,85
+2023-03-15,Bengaluru,Karnataka,94,35.9,2.09,81
+2023-03-15,Rajkot,Gujarat,80,38.5,0.88,64
+2023-03-15,Gwalior,Madhya Pradesh,202,15.0,1.4,63
+2023-03-15,Jaipur,Rajasthan,124,29.0,2.23,61
+2023-03-15,Pune,Maharashtra,115,15.0,4.34,40
+2023-03-15,Guwahati,Assam,85,25.4,2.28,83
+2023-03-15,Hyderabad,Telangana,52,19.4,5.0,43
+2023-03-15,Nagpur,Maharashtra,232,19.2,5.12,75
+2023-03-15,Kolkata,West Bengal,68,35.2,3.09,21
+2023-03-15,Jodhpur,Rajasthan,148,18.2,4.88,61
+2023-03-15,Bhubaneswar,Odisha,196,12.9,3.89,48
+2023-03-15,Dehradun,Uttarakhand,216,26.3,6.62,32
+2023-03-15,Ranchi,Jharkhand,98,10.1,2.51,70
+2023-03-15,Chandigarh,Chandigarh,53,34.0,5.19,75
+2023-03-15,Kanpur,Uttar Pradesh,108,36.4,2.34,33
+2023-03-15,Indore,Madhya Pradesh,69,15.9,5.01,20
+2023-03-15,Varanasi,Uttar Pradesh,192,40.0,5.41,49
+2023-04-15,Delhi,Delhi,75,41.3,1.78,61
+2023-04-15,Nashik,Maharashtra,81,22.7,1.49,28
+2023-04-15,Vadodara,Gujarat,109,33.8,3.43,62
+2023-04-15,Guwahati,Assam,205,37.4,6.86,77
+2023-04-15,Ludhiana,Punjab,86,38.9,2.79,60
+2023-04-15,Kolkata,West Bengal,235,26.6,1.03,65
+2023-04-15,Bhopal,Madhya Pradesh,136,24.6,4.71,30
+2023-04-15,Jodhpur,Rajasthan,138,33.9,3.72,59
+2023-04-15,Ranchi,Jharkhand,59,15.3,5.42,29
+2023-04-15,Agra,Uttar Pradesh,105,36.2,6.33,66
+2023-04-15,Jaipur,Rajasthan,224,37.7,5.95,48
+2023-04-15,Bengaluru,Karnataka,107,16.3,3.11,75
+2023-04-15,Lucknow,Uttar Pradesh,113,11.2,6.69,20
+2023-04-15,Varanasi,Uttar Pradesh,114,16.0,4.39,84
+2023-04-15,Bhubaneswar,Odisha,220,38.0,3.67,53
+2023-04-15,Rajkot,Gujarat,59,16.4,3.85,48
+2023-04-15,Mumbai,Maharashtra,46,26.1,0.59,89
+2023-04-15,Kanpur,Uttar Pradesh,131,24.1,5.62,86
+2023-04-15,Chennai,Tamil Nadu,173,37.1,2.09,47
+2023-04-15,Hyderabad,Telangana,223,38.4,6.24,32
+2023-05-15,Jodhpur,Rajasthan,78,38.0,3.82,78
+2023-05-15,Dehradun,Uttarakhand,142,15.7,6.48,81
+2023-05-15,Srinagar,Jammu and Kashmir,221,19.5,0.96,70
+2023-05-15,Patna,Bihar,250,31.8,4.5,42
+2023-05-15,Kolkata,West Bengal,50,40.9,4.23,70
+2023-05-15,Kanpur,Uttar Pradesh,155,15.9,5.96,50
+2023-05-15,Ranchi,Jharkhand,145,17.6,4.44,72
+2023-05-15,Bengaluru,Karnataka,137,39.7,4.46,69
+2023-05-15,Indore,Madhya Pradesh,232,40.6,5.4,75
+2023-05-15,Bhopal,Madhya Pradesh,133,15.6,4.76,63
+2023-05-15,Bhubaneswar,Odisha,237,40.9,5.35,37
+2023-05-15,Amritsar,Punjab,132,30.9,3.68,37
+2023-05-15,Nagpur,Maharashtra,201,21.0,2.63,72
+2023-05-15,Ludhiana,Punjab,64,17.8,3.79,56
+2023-05-15,Guwahati,Assam,246,30.9,4.44,20
+2023-05-15,Gwalior,Madhya Pradesh,144,39.5,1.85,67
+2023-05-15,Jaipur,Rajasthan,98,39.3,1.52,47
+2023-05-15,Agra,Uttar Pradesh,149,22.7,6.36,50
+2023-05-15,Delhi,Delhi,158,19.5,2.58,64
+2023-05-15,Nashik,Maharashtra,199,36.6,1.27,82
+2023-06-15,Kanpur,Uttar Pradesh,231,37.5,5.52,21
+2023-06-15,Delhi,Delhi,222,13.4,2.89,73
+2023-06-15,Guwahati,Assam,153,32.9,3.84,58
+2023-06-15,Ludhiana,Punjab,41,20.1,2.42,67
+2023-06-15,Kolkata,West Bengal,134,36.3,1.64,90
+2023-06-15,Vadodara,Gujarat,101,39.7,6.51,77
+2023-06-15,Mumbai,Maharashtra,124,39.6,0.7,24
+2023-06-15,Bengaluru,Karnataka,225,36.9,1.6,86
+2023-06-15,Hyderabad,Telangana,114,11.0,5.54,56
+2023-06-15,Rajkot,Gujarat,84,38.2,6.47,32
+2023-06-15,Amritsar,Punjab,62,17.2,5.75,59
+2023-06-15,Pune,Maharashtra,222,25.1,3.86,70
+2023-06-15,Indore,Madhya Pradesh,234,39.2,4.63,50
+2023-06-15,Nashik,Maharashtra,127,40.1,6.42,61
+2023-06-15,Ranchi,Jharkhand,189,15.2,3.19,23
+2023-06-15,Jodhpur,Rajasthan,241,39.8,2.63,32
+2023-06-15,Gwalior,Madhya Pradesh,152,27.8,4.54,49
+2023-06-15,Dehradun,Uttarakhand,123,14.2,3.68,43
+2023-06-15,Srinagar,Jammu and Kashmir,214,32.1,2.35,63
+2023-06-15,Chandigarh,Chandigarh,162,17.9,6.38,53
+2023-07-15,Varanasi,Uttar Pradesh,192,14.4,2.14,68
+2023-07-15,Bengaluru,Karnataka,156,23.4,3.11,26
+2023-07-15,Delhi,Delhi,67,20.9,2.53,76
+2023-07-15,Kolkata,West Bengal,91,37.3,5.06,69
+2023-07-15,Ranchi,Jharkhand,184,36.3,2.08,39
+2023-07-15,Agra,Uttar Pradesh,172,10.1,4.61,24
+2023-07-15,Kanpur,Uttar Pradesh,246,33.7,5.58,53
+2023-07-15,Dehradun,Uttarakhand,206,10.0,3.29,63
+2023-07-15,Jodhpur,Rajasthan,127,37.5,1.11,82
+2023-07-15,Ahmedabad,Gujarat,97,10.5,4.36,75
+2023-07-15,Indore,Madhya Pradesh,61,11.5,5.32,26
+2023-07-15,Mumbai,Maharashtra,115,11.0,2.66,69
+2023-07-15,Rajkot,Gujarat,213,29.9,6.62,54
+2023-07-15,Ludhiana,Punjab,123,29.2,2.39,45
+2023-07-15,Hyderabad,Telangana,147,10.1,5.43,65
+2023-07-15,Amritsar,Punjab,77,11.4,4.76,61
+2023-07-15,Bhubaneswar,Odisha,142,26.6,3.37,40
+2023-07-15,Jaipur,Rajasthan,146,17.2,5.26,77
+2023-07-15,Gwalior,Madhya Pradesh,169,15.5,3.38,52
+2023-07-15,Bhopal,Madhya Pradesh,93,26.8,2.44,79
+2023-08-15,Kanpur,Uttar Pradesh,225,12.6,4.41,80
+2023-08-15,Lucknow,Uttar Pradesh,68,33.7,2.83,46
+2023-08-15,Guwahati,Assam,226,21.6,6.14,31
+2023-08-15,Indore,Madhya Pradesh,246,32.4,1.03,56
+2023-08-15,Agra,Uttar Pradesh,226,22.7,0.55,37
+2023-08-15,Hyderabad,Telangana,58,33.0,4.92,24
+2023-08-15,Chandigarh,Chandigarh,236,21.6,0.84,39
+2023-08-15,Bhubaneswar,Odisha,153,41.4,4.93,53
+2023-08-15,Kolkata,West Bengal,85,23.9,5.11,78
+2023-08-15,Nagpur,Maharashtra,151,41.5,3.93,60
+2023-08-15,Nashik,Maharashtra,240,16.4,1.81,89
+2023-08-15,Patna,Bihar,66,30.3,1.49,31
+2023-08-15,Ranchi,Jharkhand,194,31.8,6.26,85
+2023-08-15,Mumbai,Maharashtra,176,41.3,1.67,44
+2023-08-15,Chennai,Tamil Nadu,108,31.6,5.98,72
+2023-08-15,Rajkot,Gujarat,236,40.6,0.57,37
+2023-08-15,Varanasi,Uttar Pradesh,100,15.6,5.63,71
+2023-08-15,Jaipur,Rajasthan,247,27.7,0.62,20
+2023-08-15,Delhi,Delhi,52,27.9,0.66,47
+2023-08-15,Amritsar,Punjab,196,21.9,6.7,35
+2023-09-15,Bengaluru,Karnataka,213,13.2,5.81,29
+2023-09-15,Indore,Madhya Pradesh,157,23.0,5.34,52
+2023-09-15,Patna,Bihar,94,35.8,5.86,78
+2023-09-15,Nagpur,Maharashtra,81,22.6,1.32,56
+2023-09-15,Mumbai,Maharashtra,104,37.2,3.49,64
+2023-09-15,Delhi,Delhi,86,24.6,5.85,58
+2023-09-15,Jaipur,Rajasthan,244,32.0,1.97,59
+2023-09-15,Varanasi,Uttar Pradesh,54,31.1,6.1,37
+2023-09-15,Nashik,Maharashtra,178,24.8,1.43,84
+2023-09-15,Lucknow,Uttar Pradesh,232,28.0,5.63,69
+2023-09-15,Bhopal,Madhya Pradesh,109,16.5,4.72,21
+2023-09-15,Gwalior,Madhya Pradesh,215,10.5,5.02,29
+2023-09-15,Dehradun,Uttarakhand,53,29.8,5.73,28
+2023-09-15,Chennai,Tamil Nadu,124,29.3,5.38,75
+2023-09-15,Vadodara,Gujarat,88,13.3,6.79,76
+2023-09-15,Pune,Maharashtra,135,41.3,3.09,67
+2023-09-15,Ahmedabad,Gujarat,96,37.2,4.64,43
+2023-09-15,Chandigarh,Chandigarh,70,38.4,1.89,21
+2023-09-15,Kanpur,Uttar Pradesh,206,22.9,6.33,22
+2023-09-15,Jodhpur,Rajasthan,205,32.5,6.13,31
+2023-10-15,Bhubaneswar,Odisha,238,21.0,3.52,35
+2023-10-15,Rajkot,Gujarat,84,19.2,5.24,64
+2023-10-15,Jodhpur,Rajasthan,130,10.2,2.86,23
+2023-10-15,Ahmedabad,Gujarat,92,36.6,4.45,71
+2023-10-15,Bhopal,Madhya Pradesh,170,22.1,6.19,38
+2023-10-15,Hyderabad,Telangana,41,22.4,2.23,29
+2023-10-15,Ranchi,Jharkhand,166,32.4,3.52,70
+2023-10-15,Patna,Bihar,61,18.4,2.1,38
+2023-10-15,Jaipur,Rajasthan,108,15.7,0.86,44
+2023-10-15,Delhi,Delhi,62,11.5,5.45,37
+2023-10-15,Kanpur,Uttar Pradesh,201,39.4,3.23,38
+2023-10-15,Varanasi,Uttar Pradesh,204,16.1,6.65,25
+2023-10-15,Chennai,Tamil Nadu,120,34.5,2.77,27
+2023-10-15,Bengaluru,Karnataka,160,14.3,4.65,45
+2023-10-15,Indore,Madhya Pradesh,105,16.6,3.97,47
+2023-10-15,Agra,Uttar Pradesh,97,24.1,1.2,31
+2023-10-15,Gwalior,Madhya Pradesh,231,13.8,6.83,75
+2023-10-15,Guwahati,Assam,248,17.3,4.93,28
+2023-10-15,Vadodara,Gujarat,190,31.3,6.97,44
+2023-10-15,Mumbai,Maharashtra,168,27.7,4.89,34
+2023-11-15,Nagpur,Maharashtra,236,33.3,1.09,31
+2023-11-15,Dehradun,Uttarakhand,195,33.2,4.26,86
+2023-11-15,Jodhpur,Rajasthan,82,26.2,1.54,73
+2023-11-15,Nashik,Maharashtra,45,28.1,2.32,25
+2023-11-15,Jaipur,Rajasthan,107,17.2,4.36,37
+2023-11-15,Kanpur,Uttar Pradesh,177,41.3,6.21,35
+2023-11-15,Kolkata,West Bengal,71,28.9,5.51,49
+2023-11-15,Lucknow,Uttar Pradesh,56,12.1,6.69,49
+2023-11-15,Delhi,Delhi,97,29.9,0.98,89
+2023-11-15,Bengaluru,Karnataka,145,33.4,3.47,52
+2023-11-15,Chennai,Tamil Nadu,240,20.3,6.9,39
+2023-11-15,Gwalior,Madhya Pradesh,219,19.8,6.59,43
+2023-11-15,Vadodara,Gujarat,136,35.6,0.63,54
+2023-11-15,Varanasi,Uttar Pradesh,112,30.2,1.63,82
+2023-11-15,Indore,Madhya Pradesh,46,10.8,6.65,33
+2023-11-15,Bhopal,Madhya Pradesh,247,32.0,6.61,82
+2023-11-15,Mumbai,Maharashtra,87,25.2,5.44,39
+2023-11-15,Ludhiana,Punjab,95,13.2,3.74,52
+2023-11-15,Srinagar,Jammu and Kashmir,104,34.9,0.7,26
+2023-11-15,Amritsar,Punjab,150,23.7,5.12,56
+2023-12-15,Hyderabad,Telangana,172,18.1,4.67,69
+2023-12-15,Jaipur,Rajasthan,41,31.5,2.19,40
+2023-12-15,Pune,Maharashtra,46,34.5,4.81,83
+2023-12-15,Kolkata,West Bengal,77,21.8,1.18,59
+2023-12-15,Kanpur,Uttar Pradesh,50,27.7,3.98,53
+2023-12-15,Indore,Madhya Pradesh,165,23.5,6.92,53
+2023-12-15,Ahmedabad,Gujarat,100,38.6,4.79,45
+2023-12-15,Delhi,Delhi,92,35.5,6.01,44
+2023-12-15,Varanasi,Uttar Pradesh,86,13.8,3.43,31
+2023-12-15,Bhopal,Madhya Pradesh,106,32.9,1.73,75
+2023-12-15,Bengaluru,Karnataka,206,12.8,6.22,67
+2023-12-15,Bhubaneswar,Odisha,228,32.6,4.29,78
+2023-12-15,Srinagar,Jammu and Kashmir,153,34.4,3.25,73
+2023-12-15,Agra,Uttar Pradesh,187,21.2,2.87,77
+2023-12-15,Gwalior,Madhya Pradesh,56,35.1,2.1,84
+2023-12-15,Mumbai,Maharashtra,77,34.1,2.05,36
+2023-12-15,Ludhiana,Punjab,129,14.4,6.1,71
+2023-12-15,Nagpur,Maharashtra,80,13.5,0.76,86
+2023-12-15,Amritsar,Punjab,178,36.7,6.09,52
+2023-12-15,Nashik,Maharashtra,130,18.3,6.82,54
+2024-01-15,Jaipur,Rajasthan,130,29.0,4.1,31
+2024-01-15,Gwalior,Madhya Pradesh,225,40.3,4.11,34
+2024-01-15,Bhopal,Madhya Pradesh,172,16.8,5.62,53
+2024-01-15,Indore,Madhya Pradesh,112,11.4,5.09,42
+2024-01-15,Agra,Uttar Pradesh,67,36.3,5.4,88
+2024-01-15,Vadodara,Gujarat,159,13.8,3.15,54
+2024-01-15,Hyderabad,Telangana,57,21.8,3.74,43
+2024-01-15,Lucknow,Uttar Pradesh,181,15.0,4.53,83
+2024-01-15,Nagpur,Maharashtra,238,36.3,2.23,81
+2024-01-15,Bhubaneswar,Odisha,139,12.3,4.38,30
+2024-01-15,Kanpur,Uttar Pradesh,216,17.4,1.64,36
+2024-01-15,Rajkot,Gujarat,222,20.0,1.23,49
+2024-01-15,Chandigarh,Chandigarh,73,41.7,1.14,82
+2024-01-15,Dehradun,Uttarakhand,105,41.6,1.18,84
+2024-01-15,Chennai,Tamil Nadu,163,31.6,2.97,78
+2024-01-15,Ranchi,Jharkhand,139,17.2,2.05,36
+2024-01-15,Nashik,Maharashtra,206,20.2,6.43,84
+2024-01-15,Varanasi,Uttar Pradesh,51,40.8,5.75,23
+2024-01-15,Pune,Maharashtra,47,32.9,2.88,32
+2024-01-15,Bengaluru,Karnataka,191,33.1,0.79,53
+2024-02-15,Agra,Uttar Pradesh,49,15.2,4.27,61
+2024-02-15,Hyderabad,Telangana,233,31.9,5.93,57
+2024-02-15,Nashik,Maharashtra,157,20.1,5.94,74
+2024-02-15,Kolkata,West Bengal,94,40.6,2.3,62
+2024-02-15,Bhopal,Madhya Pradesh,102,15.8,6.53,53
+2024-02-15,Ludhiana,Punjab,187,32.8,1.38,65
+2024-02-15,Nagpur,Maharashtra,186,41.4,3.2,28
+2024-02-15,Patna,Bihar,237,28.0,4.08,42
+2024-02-15,Guwahati,Assam,203,18.6,6.64,72
+2024-02-15,Chennai,Tamil Nadu,162,39.9,0.9,30
+2024-02-15,Dehradun,Uttarakhand,91,14.0,5.63,36
+2024-02-15,Vadodara,Gujarat,92,39.9,4.44,43
+2024-02-15,Bhubaneswar,Odisha,232,32.7,5.03,56
+2024-02-15,Bengaluru,Karnataka,183,36.9,5.98,55
+2024-02-15,Ranchi,Jharkhand,249,26.4,6.49,64
+2024-02-15,Rajkot,Gujarat,146,23.9,5.84,58
+2024-02-15,Ahmedabad,Gujarat,159,34.6,1.36,46
+2024-02-15,Pune,Maharashtra,139,15.0,3.79,63
+2024-02-15,Jaipur,Rajasthan,76,29.1,3.44,34
+2024-02-15,Mumbai,Maharashtra,158,12.1,6.05,64
+2024-03-15,Bhubaneswar,Odisha,209,34.9,0.5,77
+2024-03-15,Chennai,Tamil Nadu,242,25.8,6.95,70
+2024-03-15,Bhopal,Madhya Pradesh,58,22.1,2.98,36
+2024-03-15,Vadodara,Gujarat,146,37.9,5.31,33
+2024-03-15,Pune,Maharashtra,122,28.7,3.15,80
+2024-03-15,Srinagar,Jammu and Kashmir,83,39.3,0.75,20
+2024-03-15,Delhi,Delhi,230,11.9,6.64,81
+2024-03-15,Patna,Bihar,163,10.8,3.98,21
+2024-03-15,Agra,Uttar Pradesh,234,16.4,2.13,64
+2024-03-15,Dehradun,Uttarakhand,178,18.3,4.46,76
+2024-03-15,Bengaluru,Karnataka,43,19.6,3.6,64
+2024-03-15,Nashik,Maharashtra,107,21.3,5.26,74
+2024-03-15,Ludhiana,Punjab,105,35.5,5.54,40
+2024-03-15,Kolkata,West Bengal,110,32.9,3.74,25
+2024-03-15,Jaipur,Rajasthan,63,19.9,0.69,83
+2024-03-15,Ranchi,Jharkhand,202,15.8,5.19,51
+2024-03-15,Jodhpur,Rajasthan,247,19.9,3.38,32
+2024-03-15,Mumbai,Maharashtra,76,14.1,6.07,81
+2024-03-15,Rajkot,Gujarat,228,35.3,6.04,24
+2024-03-15,Indore,Madhya Pradesh,195,36.1,1.02,46
+2024-04-15,Mumbai,Maharashtra,125,33.1,6.19,77
+2024-04-15,Srinagar,Jammu and Kashmir,181,27.3,3.64,56
+2024-04-15,Kanpur,Uttar Pradesh,246,34.2,3.26,27
+2024-04-15,Chennai,Tamil Nadu,51,25.4,3.13,40
+2024-04-15,Guwahati,Assam,45,15.9,6.73,29
+2024-04-15,Bengaluru,Karnataka,144,28.4,1.4,90
+2024-04-15,Jodhpur,Rajasthan,116,12.1,1.71,79
+2024-04-15,Nashik,Maharashtra,169,19.5,2.17,25
+2024-04-15,Ahmedabad,Gujarat,209,19.4,3.76,62
+2024-04-15,Nagpur,Maharashtra,149,11.1,3.35,27
+2024-04-15,Chandigarh,Chandigarh,247,27.3,3.13,46
+2024-04-15,Jaipur,Rajasthan,65,26.7,2.46,56
+2024-04-15,Rajkot,Gujarat,201,27.1,2.94,34
+2024-04-15,Kolkata,West Bengal,96,11.8,2.12,40
+2024-04-15,Lucknow,Uttar Pradesh,152,38.4,0.54,27
+2024-04-15,Bhopal,Madhya Pradesh,210,24.5,4.54,38
+2024-04-15,Delhi,Delhi,98,33.2,1.77,67
+2024-04-15,Agra,Uttar Pradesh,195,20.4,6.53,24
+2024-04-15,Amritsar,Punjab,194,22.9,1.05,31
+2024-04-15,Pune,Maharashtra,163,29.6,6.08,90
+2024-05-15,Amritsar,Punjab,69,20.3,5.92,38
+2024-05-15,Hyderabad,Telangana,172,27.4,1.82,72
+2024-05-15,Gwalior,Madhya Pradesh,249,21.4,5.5,57
+2024-05-15,Delhi,Delhi,76,15.4,6.21,74
+2024-05-15,Kolkata,West Bengal,230,20.1,6.19,68
+2024-05-15,Nagpur,Maharashtra,95,25.2,1.7,34
+2024-05-15,Bhopal,Madhya Pradesh,44,29.0,1.97,47
+2024-05-15,Chennai,Tamil Nadu,51,15.1,2.13,34
+2024-05-15,Mumbai,Maharashtra,213,33.5,0.5,34
+2024-05-15,Ludhiana,Punjab,223,17.4,1.81,55
+2024-05-15,Patna,Bihar,51,14.1,5.81,27
+2024-05-15,Chandigarh,Chandigarh,166,29.9,4.43,72
+2024-05-15,Dehradun,Uttarakhand,104,11.4,5.76,78
+2024-05-15,Nashik,Maharashtra,227,38.3,5.94,54
+2024-05-15,Kanpur,Uttar Pradesh,161,39.9,1.56,90
+2024-05-15,Indore,Madhya Pradesh,231,15.3,4.67,48
+2024-05-15,Vadodara,Gujarat,111,26.0,0.52,25
+2024-05-15,Srinagar,Jammu and Kashmir,212,29.3,5.74,74
+2024-05-15,Varanasi,Uttar Pradesh,115,33.6,3.95,64
+2024-05-15,Guwahati,Assam,52,29.5,6.23,29
+2024-06-15,Lucknow,Uttar Pradesh,98,31.2,2.81,42
+2024-06-15,Srinagar,Jammu and Kashmir,86,29.5,6.3,61
+2024-06-15,Nagpur,Maharashtra,207,36.5,1.63,41
+2024-06-15,Ludhiana,Punjab,144,10.9,2.38,78
+2024-06-15,Mumbai,Maharashtra,196,16.2,4.22,72
+2024-06-15,Dehradun,Uttarakhand,72,26.5,3.82,75
+2024-06-15,Ranchi,Jharkhand,113,27.4,6.33,86
+2024-06-15,Delhi,Delhi,84,10.3,4.41,70
+2024-06-15,Gwalior,Madhya Pradesh,197,40.9,5.79,44
+2024-06-15,Chandigarh,Chandigarh,155,14.6,2.02,44
+2024-06-15,Bhubaneswar,Odisha,69,18.9,4.05,44
+2024-06-15,Guwahati,Assam,143,11.8,2.86,65
+2024-06-15,Kanpur,Uttar Pradesh,165,27.9,2.59,42
+2024-06-15,Rajkot,Gujarat,58,25.0,2.18,36
+2024-06-15,Bengaluru,Karnataka,213,10.4,4.93,60
+2024-06-15,Nashik,Maharashtra,188,41.2,4.74,29
+2024-06-15,Chennai,Tamil Nadu,78,26.2,3.5,88
+2024-06-15,Kolkata,West Bengal,238,26.1,3.48,86
+2024-06-15,Indore,Madhya Pradesh,211,31.9,5.19,55
+2024-06-15,Bhopal,Madhya Pradesh,64,14.9,5.22,36
+2024-07-15,Bhubaneswar,Odisha,236,19.0,7.0,45
+2024-07-15,Rajkot,Gujarat,199,25.7,1.83,56
+2024-07-15,Nashik,Maharashtra,137,23.4,5.56,76
+2024-07-15,Kolkata,West Bengal,166,24.2,2.56,65
+2024-07-15,Ludhiana,Punjab,46,16.9,5.75,24
+2024-07-15,Chennai,Tamil Nadu,206,21.6,2.22,47
+2024-07-15,Kanpur,Uttar Pradesh,208,36.8,2.14,84
+2024-07-15,Agra,Uttar Pradesh,246,27.9,4.16,33
+2024-07-15,Amritsar,Punjab,168,22.7,2.17,39
+2024-07-15,Varanasi,Uttar Pradesh,130,34.6,2.03,29
+2024-07-15,Nagpur,Maharashtra,42,30.9,1.19,70
+2024-07-15,Indore,Madhya Pradesh,201,28.0,3.55,67
+2024-07-15,Patna,Bihar,110,16.8,1.54,41
+2024-07-15,Chandigarh,Chandigarh,241,40.5,2.73,33
+2024-07-15,Lucknow,Uttar Pradesh,145,13.2,2.46,80
+2024-07-15,Pune,Maharashtra,212,41.4,3.65,49
+2024-07-15,Srinagar,Jammu and Kashmir,195,15.7,2.87,82
+2024-07-15,Jaipur,Rajasthan,96,40.5,6.92,48
+2024-07-15,Bengaluru,Karnataka,51,22.3,2.55,22
+2024-07-15,Ranchi,Jharkhand,213,23.2,3.13,70
+2024-08-15,Srinagar,Jammu and Kashmir,75,10.5,1.19,56
+2024-08-15,Delhi,Delhi,250,23.9,5.8,20
+2024-08-15,Kanpur,Uttar Pradesh,75,28.7,0.8,54
+2024-08-15,Agra,Uttar Pradesh,214,16.8,2.96,81
+2024-08-15,Chennai,Tamil Nadu,228,33.0,5.02,52
+2024-08-15,Rajkot,Gujarat,226,13.7,4.28,60
+2024-08-15,Varanasi,Uttar Pradesh,151,31.9,4.22,32
+2024-08-15,Gwalior,Madhya Pradesh,153,21.1,6.29,58
+2024-08-15,Pune,Maharashtra,207,28.7,2.97,62
+2024-08-15,Bhopal,Madhya Pradesh,152,19.8,1.27,80
+2024-08-15,Dehradun,Uttarakhand,58,18.7,6.64,57
+2024-08-15,Lucknow,Uttar Pradesh,158,41.6,2.39,75
+2024-08-15,Patna,Bihar,51,13.4,5.68,37
+2024-08-15,Chandigarh,Chandigarh,50,37.6,1.09,73
+2024-08-15,Ludhiana,Punjab,198,24.2,3.86,34
+2024-08-15,Bengaluru,Karnataka,83,13.5,1.45,39
+2024-08-15,Hyderabad,Telangana,138,14.2,3.66,54
+2024-08-15,Ahmedabad,Gujarat,126,39.9,3.4,21
+2024-08-15,Nagpur,Maharashtra,239,33.4,4.44,40
+2024-08-15,Indore,Madhya Pradesh,116,30.7,0.91,54
+2024-09-15,Ranchi,Jharkhand,209,12.2,5.34,58
+2024-09-15,Amritsar,Punjab,224,36.3,2.25,64
+2024-09-15,Chandigarh,Chandigarh,222,11.3,5.34,49
+2024-09-15,Vadodara,Gujarat,171,25.4,1.46,68
+2024-09-15,Bengaluru,Karnataka,84,20.4,0.91,46
+2024-09-15,Bhubaneswar,Odisha,220,24.8,4.47,71
+2024-09-15,Nagpur,Maharashtra,150,39.6,2.11,71
+2024-09-15,Srinagar,Jammu and Kashmir,148,28.5,6.12,62
+2024-09-15,Ludhiana,Punjab,212,11.0,1.09,78
+2024-09-15,Guwahati,Assam,55,18.4,6.7,85
+2024-09-15,Patna,Bihar,83,36.6,2.17,58
+2024-09-15,Jodhpur,Rajasthan,77,30.8,4.21,27
+2024-09-15,Ahmedabad,Gujarat,153,18.7,1.51,49
+2024-09-15,Hyderabad,Telangana,214,14.1,2.92,33
+2024-09-15,Chennai,Tamil Nadu,166,23.1,6.93,45
+2024-09-15,Mumbai,Maharashtra,110,15.2,1.0,34
+2024-09-15,Bhopal,Madhya Pradesh,127,10.7,5.31,33
+2024-09-15,Gwalior,Madhya Pradesh,55,32.1,5.15,76
+2024-09-15,Dehradun,Uttarakhand,96,13.3,2.03,52
+2024-09-15,Delhi,Delhi,164,17.4,3.88,89
+2024-10-15,Chennai,Tamil Nadu,115,27.2,2.41,38
+2024-10-15,Kolkata,West Bengal,141,16.7,4.56,53
+2024-10-15,Bhubaneswar,Odisha,204,24.4,6.79,88
+2024-10-15,Varanasi,Uttar Pradesh,205,32.4,6.64,31
+2024-10-15,Patna,Bihar,83,13.0,1.16,76
+2024-10-15,Vadodara,Gujarat,92,10.1,3.43,23
+2024-10-15,Bhopal,Madhya Pradesh,213,11.3,1.33,71
+2024-10-15,Rajkot,Gujarat,184,18.8,5.32,64
+2024-10-15,Ludhiana,Punjab,172,41.0,3.26,33
+2024-10-15,Hyderabad,Telangana,110,12.8,0.66,44
+2024-10-15,Nashik,Maharashtra,133,15.1,3.72,57
+2024-10-15,Gwalior,Madhya Pradesh,160,16.1,3.97,52
+2024-10-15,Kanpur,Uttar Pradesh,249,15.4,4.6,68
+2024-10-15,Amritsar,Punjab,211,15.0,5.61,57
+2024-10-15,Bengaluru,Karnataka,111,31.1,5.82,62
+2024-10-15,Lucknow,Uttar Pradesh,66,41.5,2.75,82
+2024-10-15,Mumbai,Maharashtra,216,17.7,2.25,58
+2024-10-15,Ranchi,Jharkhand,215,23.8,5.24,62
+2024-10-15,Agra,Uttar Pradesh,230,31.8,6.29,20
+2024-10-15,Chandigarh,Chandigarh,123,11.6,2.07,82
+2024-11-15,Srinagar,Jammu and Kashmir,144,27.3,4.19,50
+2024-11-15,Bengaluru,Karnataka,183,35.2,6.66,63
+2024-11-15,Jodhpur,Rajasthan,140,21.1,3.54,78
+2024-11-15,Rajkot,Gujarat,235,23.7,1.61,56
+2024-11-15,Bhubaneswar,Odisha,181,10.8,3.28,77
+2024-11-15,Pune,Maharashtra,43,35.9,5.02,88
+2024-11-15,Agra,Uttar Pradesh,174,16.9,5.67,65
+2024-11-15,Amritsar,Punjab,57,27.2,1.45,64
+2024-11-15,Bhopal,Madhya Pradesh,101,38.2,0.59,53
+2024-11-15,Mumbai,Maharashtra,139,39.2,5.92,65
+2024-11-15,Lucknow,Uttar Pradesh,63,11.1,5.82,55
+2024-11-15,Guwahati,Assam,204,37.1,6.4,80
+2024-11-15,Vadodara,Gujarat,47,20.9,1.25,51
+2024-11-15,Hyderabad,Telangana,168,34.4,6.56,69
+2024-11-15,Patna,Bihar,158,17.3,3.85,36
+2024-11-15,Nagpur,Maharashtra,171,37.0,0.63,55
+2024-11-15,Jaipur,Rajasthan,142,27.3,1.47,35
+2024-11-15,Chandigarh,Chandigarh,92,27.4,5.5,31
+2024-11-15,Ranchi,Jharkhand,236,24.4,1.84,68
+2024-11-15,Indore,Madhya Pradesh,69,17.7,4.21,56
+2024-12-15,Bhopal,Madhya Pradesh,216,26.3,6.18,85
+2024-12-15,Jodhpur,Rajasthan,120,10.2,6.43,71
+2024-12-15,Bhubaneswar,Odisha,172,17.7,1.87,75
+2024-12-15,Dehradun,Uttarakhand,103,19.2,3.32,31
+2024-12-15,Vadodara,Gujarat,161,26.1,1.37,83
+2024-12-15,Kanpur,Uttar Pradesh,166,38.4,4.78,30
+2024-12-15,Ahmedabad,Gujarat,99,22.8,5.59,32
+2024-12-15,Nagpur,Maharashtra,117,15.3,6.61,58
+2024-12-15,Rajkot,Gujarat,113,28.5,3.36,53
+2024-12-15,Jaipur,Rajasthan,239,29.3,5.58,87
+2024-12-15,Pune,Maharashtra,185,33.6,2.4,26
+2024-12-15,Hyderabad,Telangana,149,29.1,3.83,74
+2024-12-15,Delhi,Delhi,190,17.6,1.19,40
+2024-12-15,Mumbai,Maharashtra,245,23.1,4.55,63
+2024-12-15,Agra,Uttar Pradesh,198,27.8,5.45,72
+2024-12-15,Srinagar,Jammu and Kashmir,114,27.5,3.8,42
+2024-12-15,Bengaluru,Karnataka,186,20.5,2.99,62
+2024-12-15,Nashik,Maharashtra,129,23.6,5.3,89
+2024-12-15,Patna,Bihar,123,33.8,3.45,76
+2024-12-15,Ludhiana,Punjab,67,15.1,6.97,21
+2025-01-15,Pune,Maharashtra,170,20.7,1.15,21
+2025-01-15,Bengaluru,Karnataka,127,39.9,2.43,73
+2025-01-15,Guwahati,Assam,194,33.3,6.36,20
+2025-01-15,Agra,Uttar Pradesh,70,40.8,2.65,28
+2025-01-15,Rajkot,Gujarat,236,34.9,1.17,77
+2025-01-15,Srinagar,Jammu and Kashmir,239,38.1,3.5,65
+2025-01-15,Varanasi,Uttar Pradesh,228,40.8,2.33,72
+2025-01-15,Kanpur,Uttar Pradesh,158,20.8,5.41,30
+2025-01-15,Nashik,Maharashtra,144,31.3,0.56,22
+2025-01-15,Ludhiana,Punjab,138,23.1,2.31,28
+2025-01-15,Nagpur,Maharashtra,233,39.8,3.83,34
+2025-01-15,Delhi,Delhi,245,37.2,1.68,24
+2025-01-15,Ahmedabad,Gujarat,226,24.4,6.54,20
+2025-01-15,Bhopal,Madhya Pradesh,141,28.5,1.7,47
+2025-01-15,Jaipur,Rajasthan,166,40.3,6.5,39
+2025-01-15,Bhubaneswar,Odisha,50,31.4,4.28,34
+2025-01-15,Lucknow,Uttar Pradesh,205,10.8,3.06,82
+2025-01-15,Kolkata,West Bengal,188,16.8,4.18,89
+2025-01-15,Patna,Bihar,178,26.3,5.2,65
+2025-01-15,Amritsar,Punjab,242,32.2,5.88,55
+2025-02-15,Jaipur,Rajasthan,52,32.9,4.73,37
+2025-02-15,Kolkata,West Bengal,63,35.4,4.39,60
+2025-02-15,Bhopal,Madhya Pradesh,175,29.9,1.6,69
+2025-02-15,Bengaluru,Karnataka,143,24.3,4.16,89
+2025-02-15,Jodhpur,Rajasthan,199,32.2,0.51,71
+2025-02-15,Mumbai,Maharashtra,170,11.2,2.07,76
+2025-02-15,Ahmedabad,Gujarat,220,33.0,3.03,45
+2025-02-15,Patna,Bihar,248,17.9,4.67,21
+2025-02-15,Pune,Maharashtra,197,12.8,3.71,52
+2025-02-15,Srinagar,Jammu and Kashmir,122,19.4,0.8,69
+2025-02-15,Nagpur,Maharashtra,130,17.9,4.82,52
+2025-02-15,Bhubaneswar,Odisha,61,16.9,6.09,87
+2025-02-15,Kanpur,Uttar Pradesh,95,21.8,0.57,27
+2025-02-15,Ranchi,Jharkhand,165,12.5,4.51,27
+2025-02-15,Nashik,Maharashtra,179,32.8,1.3,72
+2025-02-15,Delhi,Delhi,218,28.4,6.49,35
+2025-02-15,Rajkot,Gujarat,203,30.7,4.36,88
+2025-02-15,Hyderabad,Telangana,69,33.6,3.62,22
+2025-02-15,Gwalior,Madhya Pradesh,235,33.0,6.87,54
+2025-02-15,Lucknow,Uttar Pradesh,114,10.0,4.62,46
+2025-03-15,Kanpur,Uttar Pradesh,239,18.9,1.05,33
+2025-03-15,Gwalior,Madhya Pradesh,100,35.9,3.52,42
+2025-03-15,Ludhiana,Punjab,208,32.7,4.67,24
+2025-03-15,Kolkata,West Bengal,194,15.0,6.61,85
+2025-03-15,Varanasi,Uttar Pradesh,197,14.8,1.73,87
+2025-03-15,Patna,Bihar,186,18.9,0.89,59
+2025-03-15,Hyderabad,Telangana,229,18.2,1.16,71
+2025-03-15,Dehradun,Uttarakhand,49,39.1,5.63,83
+2025-03-15,Indore,Madhya Pradesh,244,11.7,5.64,70
+2025-03-15,Amritsar,Punjab,230,16.8,1.76,53
+2025-03-15,Lucknow,Uttar Pradesh,223,35.0,6.3,82
+2025-03-15,Nagpur,Maharashtra,99,36.3,1.51,78
+2025-03-15,Jaipur,Rajasthan,162,38.5,6.06,71
+2025-03-15,Jodhpur,Rajasthan,191,36.3,6.78,24
+2025-03-15,Bhopal,Madhya Pradesh,95,35.3,6.6,41
+2025-03-15,Guwahati,Assam,246,27.3,3.2,57
+2025-03-15,Rajkot,Gujarat,113,10.2,5.58,32
+2025-03-15,Pune,Maharashtra,174,34.5,2.24,63
+2025-03-15,Ranchi,Jharkhand,221,19.7,0.97,52
+2025-03-15,Nashik,Maharashtra,75,33.9,6.2,35
+2025-04-15,Pune,Maharashtra,172,35.6,1.52,22
+2025-04-15,Ranchi,Jharkhand,68,21.8,1.16,59
+2025-04-15,Rajkot,Gujarat,250,28.2,1.75,31
+2025-04-15,Vadodara,Gujarat,223,30.8,5.14,71
+2025-04-15,Bhopal,Madhya Pradesh,241,34.1,1.42,39
+2025-04-15,Indore,Madhya Pradesh,44,33.0,0.96,31
+2025-04-15,Varanasi,Uttar Pradesh,242,20.4,3.41,59
+2025-04-15,Ludhiana,Punjab,164,12.5,3.71,49
+2025-04-15,Patna,Bihar,98,33.2,5.0,40
+2025-04-15,Chandigarh,Chandigarh,97,36.8,6.22,73
+2025-04-15,Ahmedabad,Gujarat,238,16.1,2.86,50
+2025-04-15,Chennai,Tamil Nadu,229,34.2,3.66,73
+2025-04-15,Agra,Uttar Pradesh,106,38.1,1.52,87
+2025-04-15,Jaipur,Rajasthan,215,25.8,4.31,32
+2025-04-15,Hyderabad,Telangana,104,25.0,0.67,73
+2025-04-15,Gwalior,Madhya Pradesh,216,32.2,5.06,36
+2025-04-15,Amritsar,Punjab,164,20.7,6.03,60
+2025-04-15,Delhi,Delhi,65,21.2,6.23,67
+2025-04-15,Bengaluru,Karnataka,63,35.0,5.32,84
+2025-04-15,Bhubaneswar,Odisha,134,14.1,0.94,77
+2025-05-15,Dehradun,Uttarakhand,70,17.9,5.14,85
+2025-05-15,Nashik,Maharashtra,42,33.3,3.95,87
+2025-05-15,Agra,Uttar Pradesh,119,38.5,4.75,31
+2025-05-15,Kolkata,West Bengal,203,29.7,2.59,49
+2025-05-15,Hyderabad,Telangana,161,11.6,6.57,57
+2025-05-15,Mumbai,Maharashtra,143,38.8,2.01,54
+2025-05-15,Chandigarh,Chandigarh,58,30.1,3.94,46
+2025-05-15,Pune,Maharashtra,151,11.8,2.53,60
+2025-05-15,Jodhpur,Rajasthan,79,17.1,3.23,68
+2025-05-15,Jaipur,Rajasthan,75,35.7,5.22,33
+2025-05-15,Guwahati,Assam,126,19.3,1.53,89
+2025-05-15,Gwalior,Madhya Pradesh,198,37.1,3.5,33
+2025-05-15,Bengaluru,Karnataka,216,14.6,5.95,73
+2025-05-15,Patna,Bihar,190,27.9,4.8,79
+2025-05-15,Amritsar,Punjab,202,40.8,6.26,68
+2025-05-15,Vadodara,Gujarat,167,17.0,5.59,62
+2025-05-15,Bhubaneswar,Odisha,186,35.2,4.31,68
+2025-05-15,Ranchi,Jharkhand,209,28.2,2.75,56
+2025-05-15,Delhi,Delhi,97,21.1,6.11,28
+2025-05-15,Varanasi,Uttar Pradesh,155,12.6,0.83,20
+2025-06-15,Kolkata,West Bengal,60,18.0,5.65,48
+2025-06-15,Patna,Bihar,240,30.9,0.69,35
+2025-06-15,Vadodara,Gujarat,209,36.9,5.89,37
+2025-06-15,Gwalior,Madhya Pradesh,154,34.6,4.87,53
+2025-06-15,Lucknow,Uttar Pradesh,48,25.1,2.78,66
+2025-06-15,Ahmedabad,Gujarat,143,25.6,4.44,84
+2025-06-15,Varanasi,Uttar Pradesh,153,19.5,6.69,29
+2025-06-15,Mumbai,Maharashtra,167,24.2,4.1,45
+2025-06-15,Jaipur,Rajasthan,202,21.5,5.77,77
+2025-06-15,Jodhpur,Rajasthan,89,27.4,6.79,51
+2025-06-15,Guwahati,Assam,155,38.9,5.04,62
+2025-06-15,Hyderabad,Telangana,195,37.7,3.71,28
+2025-06-15,Agra,Uttar Pradesh,128,35.7,4.53,36
+2025-06-15,Bhopal,Madhya Pradesh,64,36.6,5.96,47
+2025-06-15,Delhi,Delhi,235,37.6,5.55,64
+2025-06-15,Dehradun,Uttarakhand,91,25.4,5.25,28
+2025-06-15,Chandigarh,Chandigarh,227,10.0,1.52,63
+2025-06-15,Srinagar,Jammu and Kashmir,145,12.7,2.11,33
+2025-06-15,Ludhiana,Punjab,101,28.6,5.23,73
+2025-06-15,Bhubaneswar,Odisha,212,26.0,6.7,41
+2025-07-15,Agra,Uttar Pradesh,236,35.4,4.72,26
+2025-07-15,Kolkata,West Bengal,182,27.3,5.42,23
+2025-07-15,Guwahati,Assam,250,28.8,2.49,83
+2025-07-15,Indore,Madhya Pradesh,94,15.0,2.14,73
+2025-07-15,Varanasi,Uttar Pradesh,164,24.1,2.96,68
+2025-07-15,Bhubaneswar,Odisha,155,33.1,5.32,47
+2025-07-15,Gwalior,Madhya Pradesh,58,22.5,5.02,47
+2025-07-15,Srinagar,Jammu and Kashmir,209,34.5,0.92,87
+2025-07-15,Nashik,Maharashtra,89,28.3,4.98,26
+2025-07-15,Jodhpur,Rajasthan,191,10.8,5.82,61
+2025-07-15,Nagpur,Maharashtra,141,17.5,4.26,78
+2025-07-15,Lucknow,Uttar Pradesh,205,20.5,4.67,40
+2025-07-15,Chandigarh,Chandigarh,147,30.1,6.4,21
+2025-07-15,Pune,Maharashtra,151,37.2,3.21,57
+2025-07-15,Chennai,Tamil Nadu,116,15.5,4.99,90
+2025-07-15,Delhi,Delhi,180,20.1,1.34,87
+2025-07-15,Jaipur,Rajasthan,138,30.8,1.21,50
+2025-07-15,Ludhiana,Punjab,200,13.0,5.67,55
+2025-07-15,Bengaluru,Karnataka,163,12.8,3.48,69
+2025-07-15,Ranchi,Jharkhand,199,12.0,2.99,85
+2025-08-15,Vadodara,Gujarat,136,36.7,2.26,74
+2025-08-15,Ranchi,Jharkhand,118,37.6,1.01,46
+2025-08-15,Ludhiana,Punjab,46,41.0,4.63,33
+2025-08-15,Varanasi,Uttar Pradesh,123,26.3,6.45,32
+2025-08-15,Lucknow,Uttar Pradesh,108,40.5,5.27,23
+2025-08-15,Gwalior,Madhya Pradesh,198,29.4,6.51,59
+2025-08-15,Jodhpur,Rajasthan,121,23.0,2.09,56
+2025-08-15,Nashik,Maharashtra,128,23.9,6.31,81
+2025-08-15,Rajkot,Gujarat,177,20.1,5.2,61
+2025-08-15,Pune,Maharashtra,202,19.5,2.86,37
+2025-08-15,Mumbai,Maharashtra,250,23.1,6.36,28
+2025-08-15,Kanpur,Uttar Pradesh,239,41.9,6.49,24
+2025-08-15,Guwahati,Assam,224,33.2,2.0,69
+2025-08-15,Bhopal,Madhya Pradesh,62,23.5,5.62,49
+2025-08-15,Kolkata,West Bengal,169,23.0,4.74,21
+2025-08-15,Chandigarh,Chandigarh,245,27.8,4.65,68
+2025-08-15,Hyderabad,Telangana,165,28.5,2.94,77
+2025-08-15,Nagpur,Maharashtra,42,12.9,2.41,57
+2025-08-15,Jaipur,Rajasthan,160,39.9,3.72,57
+2025-08-15,Srinagar,Jammu and Kashmir,247,41.8,5.87,77
+2025-09-15,Kolkata,West Bengal,197,19.5,2.05,47
+2025-09-15,Hyderabad,Telangana,183,19.6,2.79,41
+2025-09-15,Delhi,Delhi,132,20.5,2.23,39
+2025-09-15,Jaipur,Rajasthan,103,12.0,3.4,60
+2025-09-15,Rajkot,Gujarat,164,32.3,3.66,65
+2025-09-15,Jodhpur,Rajasthan,78,27.8,3.11,87
+2025-09-15,Indore,Madhya Pradesh,151,38.5,2.26,35
+2025-09-15,Ranchi,Jharkhand,167,10.1,1.72,82
+2025-09-15,Bengaluru,Karnataka,121,14.6,3.25,61
+2025-09-15,Ludhiana,Punjab,218,29.9,5.52,42
+2025-09-15,Gwalior,Madhya Pradesh,53,25.0,5.06,29
+2025-09-15,Bhopal,Madhya Pradesh,141,32.5,2.52,43
+2025-09-15,Mumbai,Maharashtra,147,41.2,1.52,39
+2025-09-15,Patna,Bihar,226,23.5,2.12,79
+2025-09-15,Agra,Uttar Pradesh,185,34.1,3.45,52
+2025-09-15,Chandigarh,Chandigarh,222,32.9,5.08,78
+2025-09-15,Chennai,Tamil Nadu,101,26.1,4.74,89
+2025-09-15,Amritsar,Punjab,136,31.4,5.33,60
+2025-09-15,Guwahati,Assam,46,35.2,2.28,82
+2025-09-15,Varanasi,Uttar Pradesh,168,21.1,3.15,75
+2025-10-15,Nagpur,Maharashtra,110,33.3,6.44,46
+2025-10-15,Chandigarh,Chandigarh,44,17.6,3.21,85
+2025-10-15,Ludhiana,Punjab,212,33.4,6.14,20
+2025-10-15,Kanpur,Uttar Pradesh,206,23.6,5.61,20
+2025-10-15,Delhi,Delhi,149,10.5,2.29,70
+2025-10-15,Patna,Bihar,192,16.3,3.33,49
+2025-10-15,Kolkata,West Bengal,186,21.7,5.06,87
+2025-10-15,Ahmedabad,Gujarat,211,25.2,3.43,85
+2025-10-15,Mumbai,Maharashtra,171,30.7,1.95,86
+2025-10-15,Agra,Uttar Pradesh,142,34.9,5.86,51
+2025-10-15,Hyderabad,Telangana,156,22.2,1.41,52
+2025-10-15,Varanasi,Uttar Pradesh,119,22.6,0.81,80
+2025-10-15,Bhubaneswar,Odisha,145,34.9,4.95,70
+2025-10-15,Jodhpur,Rajasthan,69,34.1,5.46,53
+2025-10-15,Nashik,Maharashtra,205,10.9,6.55,66
+2025-10-15,Guwahati,Assam,190,36.7,4.89,48
+2025-10-15,Rajkot,Gujarat,107,12.8,3.41,27
+2025-10-15,Bhopal,Madhya Pradesh,123,27.8,3.99,34
+2025-10-15,Bengaluru,Karnataka,49,18.1,1.41,29
+2025-10-15,Amritsar,Punjab,174,12.9,6.33,46
+2025-11-15,Dehradun,Uttarakhand,157,21.8,5.99,26
+2025-11-15,Chandigarh,Chandigarh,88,12.8,6.85,52
+2025-11-15,Agra,Uttar Pradesh,195,23.7,3.04,48
+2025-11-15,Lucknow,Uttar Pradesh,236,14.9,2.25,29
+2025-11-15,Pune,Maharashtra,55,11.8,5.66,62
+2025-11-15,Amritsar,Punjab,211,27.1,3.04,26
+2025-11-15,Ahmedabad,Gujarat,135,38.7,2.26,30
+2025-11-15,Ranchi,Jharkhand,46,15.6,2.48,77
+2025-11-15,Indore,Madhya Pradesh,236,41.4,4.48,21
+2025-11-15,Mumbai,Maharashtra,99,13.1,3.66,58
+2025-11-15,Kolkata,West Bengal,96,29.8,3.04,30
+2025-11-15,Bhubaneswar,Odisha,215,17.8,4.4,20
+2025-11-15,Srinagar,Jammu and Kashmir,80,36.5,4.04,73
+2025-11-15,Bengaluru,Karnataka,51,18.7,4.43,82
+2025-11-15,Jodhpur,Rajasthan,210,11.0,3.25,61
+2025-11-15,Chennai,Tamil Nadu,117,26.5,2.16,30
+2025-11-15,Bhopal,Madhya Pradesh,235,26.0,0.54,34
+2025-11-15,Kanpur,Uttar Pradesh,65,18.2,5.7,75
+2025-11-15,Gwalior,Madhya Pradesh,97,31.8,1.51,34
+2025-11-15,Jaipur,Rajasthan,140,15.2,5.37,29
+2025-12-15,Lucknow,Uttar Pradesh,84,39.6,2.0,63
+2025-12-15,Mumbai,Maharashtra,211,10.5,6.89,22
+2025-12-15,Indore,Madhya Pradesh,71,31.4,0.64,85
+2025-12-15,Ahmedabad,Gujarat,212,39.2,1.82,89
+2025-12-15,Kanpur,Uttar Pradesh,129,37.2,2.75,45
+2025-12-15,Rajkot,Gujarat,168,26.1,6.79,31
+2025-12-15,Nagpur,Maharashtra,161,34.8,3.76,84
+2025-12-15,Varanasi,Uttar Pradesh,82,15.5,1.05,87
+2025-12-15,Patna,Bihar,139,10.8,4.91,36
+2025-12-15,Gwalior,Madhya Pradesh,47,31.5,2.47,88
+2025-12-15,Bengaluru,Karnataka,147,41.8,2.15,63
+2025-12-15,Chandigarh,Chandigarh,250,20.9,0.81,27
+2025-12-15,Guwahati,Assam,49,40.6,6.85,20
+2025-12-15,Jaipur,Rajasthan,51,17.1,4.69,67
+2025-12-15,Srinagar,Jammu and Kashmir,132,40.7,4.8,88
+2025-12-15,Nashik,Maharashtra,201,35.0,2.16,75
+2025-12-15,Ranchi,Jharkhand,104,14.0,5.96,71
+2025-12-15,Kolkata,West Bengal,129,11.4,6.96,67
+2025-12-15,Ludhiana,Punjab,178,30.0,4.12,88
+2025-12-15,Pune,Maharashtra,116,40.3,5.65,71
